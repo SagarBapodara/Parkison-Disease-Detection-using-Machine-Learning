@@ -11,3 +11,5 @@ Dataset link kaggle (CSV) : https://www.kaggle.com/sagarbapodara/parkinson-csv
 
 Orginal Dataset : https://www.kaggle.com/nidaguler/parkinsons-data-set
 
+Work on Kaggle : https://www.kaggle.com/sagarbapodara/parkinson-detc-svm-prediction-testing-model
+
